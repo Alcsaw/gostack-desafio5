@@ -111,7 +111,7 @@ Para esse desafio temos os seguintes testes:
 
 ## :memo: Licença
 
-Esse projeto está sob a licença GNU GPLv3. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
+Esse projeto está sob a licença GNU GPLv3. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ---
 
